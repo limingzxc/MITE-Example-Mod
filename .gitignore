@@ -2,4 +2,4 @@
 /.idea/
 /build/
 /run/*
-/run/versions/1.6.4-MITE/1.6.4-MITE.jar
+!run/.gitkeep
