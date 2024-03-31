@@ -3,7 +3,7 @@
   "id": "modid",
   "version": "${version}",
   "depends": {
-    "fishmodloader": ">=3.0.0"
+    "fishmodloader": ">=3.2.1"
   },
   "environment": "*",
   "name": "MITE Mod",
